@@ -67,7 +67,7 @@ Now, we go to our download directory and  type $ _“cd Downloads/”_ please, t
 
 ![](https://user-images.githubusercontent.com/90642764/141512467-4cdb18de-2fdc-4472-8f7d-dd4475f44e6d.png)
 
-## Please Click “Next”
+## Please Click “_Next_"
 ![](https://user-images.githubusercontent.com/90642764/141512469-4780108d-b3dc-4b5a-8980-3b444d296f1d.png)
 
 
