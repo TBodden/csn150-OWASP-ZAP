@@ -24,21 +24,21 @@
 
 ![](https://user-images.githubusercontent.com/90642764/141512455-ad650a71-72cb-477b-b2cc-b2d60de8ce59.png)
 
-## As soon as you click _“DOWNLOAD”_ a small screen will pop up. Click on  _“Save file”_ and press _“ok”_ 
+### As soon as you click _“DOWNLOAD”_ a small screen will pop up. Click on  _“Save file”_ and press _“ok”_ 
 
 ![](https://user-images.githubusercontent.com/90642764/141512458-dc90f374-4deb-41df-96e8-48e03f9eaffe.png)
 
-Now, we go to our download directory and  type $ _“cd Downloads/”_ please, type as shown as is case sensitive. 
+### Now, we go to our download directory and  type $ _“cd Downloads/”_ please, type as shown as is case sensitive. 
 
-```$ “cd Downloads/” ``` 
+```$ cd Downloads/ ``` 
 
 ![](https://user-images.githubusercontent.com/90642764/141512461-d5340696-4216-4053-a037-d551ba82e415.png)
 
-## After you have typed the above command, you will be in the _“Downloads”_ directory type _“ls”_ and the _“ZAP_2_11_0_unix.sh”_ will be visible
+### After you have typed the above command, you will be in the _“Downloads”_ directory type _“ls”_ and the _“ZAP_2_11_0_unix.sh”_ will be visible
 
-``` ls ```
+```$ ls ```
 
-```ZAP_2_11_0_unix.sh```
+```$ ZAP_2_11_0_unix.sh```
 
 ![](https://user-images.githubusercontent.com/90642764/141512463-7c3c8da4-4290-412a-bbb3-62a87dc56ee0.png)
 
