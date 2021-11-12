@@ -10,4 +10,4 @@ An OWASP ZAP check can reveal issues relating to SQL injection, wrecked authenti
 OWASP ZAP is ultimately a proxy server that scans all the traffic that runs through it. This proxy server consists of auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. Here is a quick diagram of how ZAP works. 
 
 
-'''chmod u+x ZAP_2_11_0_unix.sh'''
+```chmod u+x ZAP_2_11_0_unix.sh```
