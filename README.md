@@ -47,7 +47,7 @@ Now, we go to our download directory and  type $ _“cd Downloads/”_ please, t
 
 ## The command we use was “chmod u+x ZAP_2_11_0_unix.sh” after the command has been type when you type “ls” you see how the “command has turn into red meaning is has been executable”.
 
-```"ZAP_2_11_0_unix.sh"```
+```ZAP_2_11_0_unix.sh```
 
 ```chmod u+x ZAP_2_11_0_unix.sh```
 
@@ -69,5 +69,7 @@ Now, we go to our download directory and  type $ _“cd Downloads/”_ please, t
 
 ## Please Click “_Next_"
 ![](https://user-images.githubusercontent.com/90642764/141512469-4780108d-b3dc-4b5a-8980-3b444d296f1d.png)
+
+## Click to “_I accept the Agreement_” and click “_Next_”
 
 
