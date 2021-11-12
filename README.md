@@ -72,4 +72,38 @@ Now, we go to our download directory and  type $ _“cd Downloads/”_ please, t
 
 ## Click to “_I accept the Agreement_” and click “_Next_”
 
+![](https://user-images.githubusercontent.com/90642764/141517301-037689fe-ff35-43ee-902d-4e05682ebce8.png)
+
+## Click on the “_Standard Installation_” then click “_Next_” 
+
+![](https://user-images.githubusercontent.com/90642764/141512471-57cd078f-2878-40ad-b8f8-a1d6293d1557.png)
+
+## Next, click “_Install_”
+
+![](https://user-images.githubusercontent.com/90642764/141512472-8b8fdbd9-fd13-4274-a772-6bc391f44ec8.png)
+
+## The next screen you will see the installation taking effect
+![](https://user-images.githubusercontent.com/90642764/141512474-6500905c-8fc5-414f-99b4-eb583329aba9.png)
+
+## As soon as the installation is done, please press “_Finish_” 
+![](https://user-images.githubusercontent.com/90642764/141512518-6b891a50-7162-4620-ac0e-ef04fd5ef27c.png)
+
+## Now, we are done running the program. To run the proxy, we need to run it from the installation directory. So please open your ubuntu to locate the installation directory, and type “_sudo updated_” and type in your “_password_”.
+
+```sudo updated```
+
+```password```
+
+![](https://user-images.githubusercontent.com/90642764/141512557-c380cfd8-2d1f-4087-95d5-c24bed08ad0f.png)
+
+![pic 18](https://user-images.githubusercontent.com/90642764/141512561-4abf1916-c7c6-430a-8c91-9c852803836c.png)
+![pic 19](https://user-images.githubusercontent.com/90642764/141512583-9ca23a2f-cc6b-455b-ba87-3d4e763302ed.png)
+![pic 20](https://user-images.githubusercontent.com/90642764/141512594-24fe6176-fcbe-484e-8df9-efd1781df3fc.png)
+![pic 21](https://user-images.githubusercontent.com/90642764/141512604-f3151c1d-a55a-47cc-bd37-78e85f7aa2b9.png)
+![pic 22](https://user-images.githubusercontent.com/90642764/141512623-ef6f1144-3d65-4d9b-992c-c5b67de8f408.png)
+![pic 23](https://user-images.githubusercontent.com/90642764/141512637-42e252a1-04b9-47d9-a5d1-76deeaae3061.png)
+![pic 24](https://user-images.githubusercontent.com/90642764/141512643-459cec58-73f8-4f07-b277-499abdb25c22.png)
+![pic 25](https://user-images.githubusercontent.com/90642764/141512649-7e712c4a-82f7-42de-8dc2-38fbfeaf2bc5.png)
+![pic 26](https://user-images.githubusercontent.com/90642764/141512676-404d176b-0826-42ce-926a-79c9ace1306b.png)
+![pic 27](https://user-images.githubusercontent.com/90642764/141512698-42447337-02aa-4bff-897d-d0a77feb3e76.png)
 
