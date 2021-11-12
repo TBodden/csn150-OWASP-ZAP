@@ -32,12 +32,40 @@ Now, we go to our download directory and  type $ _“cd Downloads/”_ please, t
 
 ```$ “cd Downloads/” ``` 
 
-![pic 6](https://user-images.githubusercontent.com/90642764/141512461-d5340696-4216-4053-a037-d551ba82e415.png)
-![pic 7](https://user-images.githubusercontent.com/90642764/141512463-7c3c8da4-4290-412a-bbb3-62a87dc56ee0.png)
-![pic 8](https://user-images.githubusercontent.com/90642764/141512465-3b1ee570-fdd7-476f-8615-d41385fe33c3.png)
-![pic 9](https://user-images.githubusercontent.com/90642764/141512466-380d3f9f-63fc-41cd-8088-3d8722016e1e.png)
-![pic 10](https://user-images.githubusercontent.com/90642764/141512467-4cdb18de-2fdc-4472-8f7d-dd4475f44e6d.png)
-![pic 11](https://user-images.githubusercontent.com/90642764/141512469-4780108d-b3dc-4b5a-8980-3b444d296f1d.png)
+![](https://user-images.githubusercontent.com/90642764/141512461-d5340696-4216-4053-a037-d551ba82e415.png)
+
+## After you have typed the above command, you will be in the _“Downloads”_ directory type _“ls”_ and the _“ZAP_2_11_0_unix.sh”_ will be visible
+
+``` ls ``` ```ZAP_2_11_0_unix.sh```
+
+![](https://user-images.githubusercontent.com/90642764/141512463-7c3c8da4-4290-412a-bbb3-62a87dc56ee0.png)
+
+## By default, the script “ZAP_2_11_0_unix.sh” is not executable so we have to make it executable. This is the command we will type to accomplish that.
+
+
+## The command we use was “chmod u+x ZAP_2_11_0_unix.sh” after the command has been type when you type “ls” you see how the “command has turn into red meaning is has been executable”.
+```ZAP_2_11_0_unix.sh```
+```chmod u+x ZAP_2_11_0_unix.sh```
+``` ls ```
+
+![](https://user-images.githubusercontent.com/90642764/141512465-3b1ee570-fdd7-476f-8615-d41385fe33c3.png)
+
+## For the download to be successful, you need to type “sudo ./ZAP_2_11_0_unix.sh” ubuntu will ask you for the “password”, type it in and just follow the wizard instruction
+
+```sudo ./ZAP_2_11_0_unix.sh```
+
+![](https://user-images.githubusercontent.com/90642764/141512466-380d3f9f-63fc-41cd-8088-3d8722016e1e.png)
+
+## If, after typing in your password you can’t download the file because you have received “this error massage”. Please type this command it will fix the java issues.
+
+```sudo apt-get install openjdk-8-jre```
+
+![](https://user-images.githubusercontent.com/90642764/141512467-4cdb18de-2fdc-4472-8f7d-dd4475f44e6d.png)
+
+## Please Click “Next”
+![](https://user-images.githubusercontent.com/90642764/141512469-4780108d-b3dc-4b5a-8980-3b444d296f1d.png)
+
+
 ![pic 12](https:
 ![pic 17](https://user-images.githubusercontent.com/90642764/141512519-005c236b-ef2a-482a-890d-17ebf0aebf6c.png)
 ![pic 18](https://user-images.githubusercontent.com/90642764/141512520-ec30844c-cbb7-4632-8c98-ee040d7b4e25.png)
