@@ -16,3 +16,5 @@ OWASP ZAP is ultimately a proxy server that scans all the traffic that runs thro
 
 ![](https://user-images.githubusercontent.com/90642764/141512423-41b83190-0306-4957-8999-8b4b21d47f41.png)
 
+## And go to the zap proxy home page. **_https://www.zaproxy.org/_** after you located the page click on **_“DOWNLOAD NOW”_**
+
