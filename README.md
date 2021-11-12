@@ -12,3 +12,6 @@ OWASP ZAP is ultimately a proxy server that scans all the traffic that runs thro
 
 ![](https://user-images.githubusercontent.com/90642764/141511130-aa63f878-cae1-4ec8-87ce-1b61e7d4a22e.png)
 
+We’ll start the installation of #_“OWASP Zed Attack Proxy”_, but first start your virtual machine and click your #_“Firefox search engine”_. 
+![](https://user-images.githubusercontent.com/90642764/141512423-41b83190-0306-4957-8999-8b4b21d47f41.png)
+
