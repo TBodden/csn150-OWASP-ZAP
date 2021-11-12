@@ -47,7 +47,7 @@ Now, we go to our download directory and  type $ _“cd Downloads/”_ please, t
 
 ## The command we use was “chmod u+x ZAP_2_11_0_unix.sh” after the command has been type when you type “ls” you see how the “command has turn into red meaning is has been executable”.
 
-```ZAP_2_11_0_unix.sh```
+```"ZAP_2_11_0_unix.sh"```
 
 ```chmod u+x ZAP_2_11_0_unix.sh```
 
