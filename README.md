@@ -97,14 +97,54 @@
 
 ![](https://user-images.githubusercontent.com/90642764/141512557-c380cfd8-2d1f-4087-95d5-c24bed08ad0f.png)
 
-![pic 18](https://user-images.githubusercontent.com/90642764/141512561-4abf1916-c7c6-430a-8c91-9c852803836c.png)
-![pic 19](https://user-images.githubusercontent.com/90642764/141512583-9ca23a2f-cc6b-455b-ba87-3d4e763302ed.png)
-![pic 20](https://user-images.githubusercontent.com/90642764/141512594-24fe6176-fcbe-484e-8df9-efd1781df3fc.png)
-![pic 21](https://user-images.githubusercontent.com/90642764/141512604-f3151c1d-a55a-47cc-bd37-78e85f7aa2b9.png)
-![pic 22](https://user-images.githubusercontent.com/90642764/141512623-ef6f1144-3d65-4d9b-992c-c5b67de8f408.png)
-![pic 23](https://user-images.githubusercontent.com/90642764/141512637-42e252a1-04b9-47d9-a5d1-76deeaae3061.png)
-![pic 24](https://user-images.githubusercontent.com/90642764/141512643-459cec58-73f8-4f07-b277-499abdb25c22.png)
-![pic 25](https://user-images.githubusercontent.com/90642764/141512649-7e712c4a-82f7-42de-8dc2-38fbfeaf2bc5.png)
-![pic 26](https://user-images.githubusercontent.com/90642764/141512676-404d176b-0826-42ce-926a-79c9ace1306b.png)
+### If the “_[sudo] password for tj:_” shows up, you are good to run the command.
+
+![](https://user-images.githubusercontent.com/90642764/141512561-4abf1916-c7c6-430a-8c91-9c852803836c.png)
+
+### Next type the “_locate zaproxy_” after you have type command you will see scripts running.
+
+``` $ locate zaproxy``` 
+
+![](https://user-images.githubusercontent.com/90642764/141512583-9ca23a2f-cc6b-455b-ba87-3d4e763302ed.png)
+
+### Here, if for some reason you receive a massage  saying. “_command  ‘locate’ not found, but can be installed with_” this command will help Please type			
+
+``` $ sudo apt install mlocate```
+
+![](https://user-images.githubusercontent.com/90642764/141512594-24fe6176-fcbe-484e-8df9-efd1781df3fc.png)
+
+### After executing the above command type again “_locate zaproxy_”  and look for  the “_/opt/zaproxy/xml/config.xml_”
+
+``` $ locate zaproxy```
+
+![](https://user-images.githubusercontent.com/90642764/141512604-f3151c1d-a55a-47cc-bd37-78e85f7aa2b9.png)
+
+### Now, we will change into it directory which is “_cd /opt/zaproxy/_” after we type “_ls_”  we can see the “_zap.sh_” in red and now we excute the command
+
+``` $ cd /opt/zaproxy/ ```
+
+``` $ ls ```
+
+![](https://user-images.githubusercontent.com/90642764/141512623-ef6f1144-3d65-4d9b-992c-c5b67de8f408.png)
+
+### Now we run the installer by typing “_sudo ./zap.sh_” place in the “_password_” and let it run
+
+``` $ sudo ./zap.sh``` 
+
+![](https://user-images.githubusercontent.com/90642764/141512637-42e252a1-04b9-47d9-a5d1-76deeaae3061.png)
+
+### Now is running the java runtime environment
+
+![](https://user-images.githubusercontent.com/90642764/141512643-459cec58-73f8-4f07-b277-499abdb25c22.png)
+
+### Now it will use and load the jar files and will take a few Min
+
+![](https://user-images.githubusercontent.com/90642764/141512649-7e712c4a-82f7-42de-8dc2-38fbfeaf2bc5.png)
+
+### On the figure below you will the “_welcome to OWAS_” and in front of that window you will see the “_persist Zap Session_” click as you please for now I’m pressing “_NO…_” and click “_Start_”
+![](https://user-images.githubusercontent.com/90642764/141512676-404d176b-0826-42ce-926a-79c9ace1306b.png)
+
+### The first time you run “_Zap_” you might see some “_plugin massages that are been download_”. They might be popping up or flashing on the “_foreground_”. Once is done downloading all will disappeared
+
 ![pic 27](https://user-images.githubusercontent.com/90642764/141512698-42447337-02aa-4bff-897d-d0a77feb3e76.png)
 
