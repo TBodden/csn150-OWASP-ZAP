@@ -47,27 +47,28 @@
 
 ## The command we use was “chmod u+x ZAP_2_11_0_unix.sh” after the command has been type when you type “ls” you see how the “command has turn into red meaning is has been executable”.
 
-```ZAP_2_11_0_unix.sh```
+``` $ ZAP_2_11_0_unix.sh```
 
-```chmod u+x ZAP_2_11_0_unix.sh```
+``` $ chmod u+x ZAP_2_11_0_unix.sh```
 
-``` ls ```
+``` $ ls ```
 
 ![](https://user-images.githubusercontent.com/90642764/141512465-3b1ee570-fdd7-476f-8615-d41385fe33c3.png)
 
 ## For the download to be successful, you need to type “sudo ./ZAP_2_11_0_unix.sh” ubuntu will ask you for the “password”, type it in and just follow the wizard instruction
 
-```sudo ./ZAP_2_11_0_unix.sh```
+``` $ sudo ./ZAP_2_11_0_unix.sh```
 
 ![](https://user-images.githubusercontent.com/90642764/141512466-380d3f9f-63fc-41cd-8088-3d8722016e1e.png)
 
 ## If, after typing in your password you can’t download the file because you have received “this error massage”. Please type this command it will fix the java issues.
 
-```sudo apt-get install openjdk-8-jre```
+``` $ sudo apt-get install openjdk-8-jre```
 
 ![](https://user-images.githubusercontent.com/90642764/141512467-4cdb18de-2fdc-4472-8f7d-dd4475f44e6d.png)
 
 ## Please Click “_Next_"
+
 ![](https://user-images.githubusercontent.com/90642764/141512469-4780108d-b3dc-4b5a-8980-3b444d296f1d.png)
 
 ## Click to “_I accept the Agreement_” and click “_Next_”
@@ -90,7 +91,7 @@
 
 ## Now, we are done running the program. To run the proxy, we need to run it from the installation directory. So please open your ubuntu to locate the installation directory, and type “_sudo updated_” and type in your “_password_”.
 
-```sudo updated```
+``` $ sudo updated```
 
 ```password```
 
