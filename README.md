@@ -177,3 +177,5 @@ OWASP ZAP is a valuable and simple instrument for new learners to understand how
 Yes, once in your system is very easy to be maintained and fallow.
 
 ### _What did you learn from using this software?_
+
+Well, besides being a penetration testing application I love how easy it makes it for the user to find vulnerabilities prior to an attacker does. This application is an open-source free tool and is used to perform penetration tests. Also, the community behind it is always updating the Software so is never behind. I did enjoy all the Different Types of Active scan processes, and above all, the main goal of Zap is to allow easy penetration testing to find the vulnerabilities in web applications.
