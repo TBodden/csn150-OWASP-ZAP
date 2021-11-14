@@ -9,24 +9,24 @@
 ####  https://www.zaproxy.org/getting-started/
 
 ## Synopsis
-### _What does the program do_? OWASP ZAP is ultimately a proxy server that checks all the traffic that runs through it. This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. Here is a quick diagram of how ZAP works.
+### ***_What does the program do_?*** OWASP ZAP is ultimately a proxy server that checks all the traffic that runs through it. This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. Here is a quick diagram of how ZAP works.
 
-### _What problem does the application solve_? This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. SQL injection, data exposure, broken authentication, and cross-site scripting.
+### ***_What problem does the application solve_?*** This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. SQL injection, data exposure, broken authentication, and cross-site scripting.
 
 
 ![](https://user-images.githubusercontent.com/90642764/141511130-aa63f878-cae1-4ec8-87ce-1b61e7d4a22e.png)
 
 # ***Installation***
 
-## We’ll start the installation of **_“OWASP Zed Attack Proxy”_**, but first start your virtual machine and click your **_“Firefox search engine”_**. 
+### We’ll start the installation of **_“OWASP Zed Attack Proxy”_**, but first start your virtual machine and click your **_“Firefox search engine”_**. 
 
 ![](https://user-images.githubusercontent.com/90642764/141512423-41b83190-0306-4957-8999-8b4b21d47f41.png)
 
-## And go to the zap proxy home page. **_https://www.zaproxy.org/_** after you located the page click on **_“DOWNLOAD NOW”_**
+### And go to the zap proxy home page. **_https://www.zaproxy.org/_** after you located the page click on **_“DOWNLOAD NOW”_**
 
 ![](https://user-images.githubusercontent.com/90642764/141512454-36dbad14-0eb4-4b06-8d68-19af7afd1c49.png)
 
-## On the download page look for _“LINUX INSTALLER”_ and press _“DOWNLOAD”_
+### On the download page look for _“LINUX INSTALLER”_ and press _“DOWNLOAD”_
 
 ![](https://user-images.githubusercontent.com/90642764/141512455-ad650a71-72cb-477b-b2cc-b2d60de8ce59.png)
 
@@ -48,10 +48,10 @@
 
 ![](https://user-images.githubusercontent.com/90642764/141512463-7c3c8da4-4290-412a-bbb3-62a87dc56ee0.png)
 
-## By default, the script “ZAP_2_11_0_unix.sh” is not executable so we have to make it executable. This is the command we will type to accomplish that.
+### By default, the script “ZAP_2_11_0_unix.sh” is not executable so we have to make it executable. This is the command we will type to accomplish that.
 
 
-## The command we use was “chmod u+x ZAP_2_11_0_unix.sh” after the command has been type when you type “ls” you see how the “command has turn into red meaning is has been executable”.
+### The command we use was “chmod u+x ZAP_2_11_0_unix.sh” after the command has been type when you type “ls” you see how the “command has turn into red meaning is has been executable”.
 
 ``` $ ZAP_2_11_0_unix.sh```
 
@@ -61,41 +61,41 @@
 
 ![](https://user-images.githubusercontent.com/90642764/141512465-3b1ee570-fdd7-476f-8615-d41385fe33c3.png)
 
-## For the download to be successful, you need to type “sudo ./ZAP_2_11_0_unix.sh” ubuntu will ask you for the “password”, type it in and just follow the wizard instruction
+### For the download to be successful, you need to type “sudo ./ZAP_2_11_0_unix.sh” ubuntu will ask you for the “password”, type it in and just follow the wizard instruction
 
 ``` $ sudo ./ZAP_2_11_0_unix.sh```
 
 ![](https://user-images.githubusercontent.com/90642764/141512466-380d3f9f-63fc-41cd-8088-3d8722016e1e.png)
 
-## If, after typing in your password you can’t download the file because you have received “this error massage”. Please type this command it will fix the java issues.
+### If, after typing in your password you can’t download the file because you have received “this error massage”. Please type this command it will fix the java issues.
 
 ``` $ sudo apt-get install openjdk-8-jre```
 
 ![](https://user-images.githubusercontent.com/90642764/141512467-4cdb18de-2fdc-4472-8f7d-dd4475f44e6d.png)
 
-## Please Click “_Next_"
+### Please Click “_Next_"
 
 ![](https://user-images.githubusercontent.com/90642764/141512469-4780108d-b3dc-4b5a-8980-3b444d296f1d.png)
 
-## Click to “_I accept the Agreement_” and click “_Next_”
+### Click to “_I accept the Agreement_” and click “_Next_”
 
 ![](https://user-images.githubusercontent.com/90642764/141517301-037689fe-ff35-43ee-902d-4e05682ebce8.png)
 
-## Click on the “_Standard Installation_” then click “_Next_” 
+### Click on the “_Standard Installation_” then click “_Next_” 
 
 ![](https://user-images.githubusercontent.com/90642764/141512471-57cd078f-2878-40ad-b8f8-a1d6293d1557.png)
 
-## Next, click “_Install_”
+### Next, click “_Install_”
 
 ![](https://user-images.githubusercontent.com/90642764/141512472-8b8fdbd9-fd13-4274-a772-6bc391f44ec8.png)
 
-## The next screen you will see the installation taking effect
+### The next screen you will see the installation taking effect
 ![](https://user-images.githubusercontent.com/90642764/141512474-6500905c-8fc5-414f-99b4-eb583329aba9.png)
 
-## As soon as the installation is done, please press “_Finish_” 
+### As soon as the installation is done, please press “_Finish_” 
 ![](https://user-images.githubusercontent.com/90642764/141512518-6b891a50-7162-4620-ac0e-ef04fd5ef27c.png)
 
-## Now, we are done running the program. To run the proxy, we need to run it from the installation directory. So please open your ubuntu to locate the installation directory, and type “_sudo updated_” and type in your “_password_”.
+### Now, we are done running the program. To run the proxy, we need to run it from the installation directory. So please open your ubuntu to locate the installation directory, and type “_sudo updated_” and type in your “_password_”.
 
 ``` $ sudo updated```
 
