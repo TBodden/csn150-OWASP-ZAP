@@ -1,6 +1,19 @@
 # CNS150-OWASP-ZAP
 # Educational
 
+## Name of Program / Application
+### “_OWASP ZAP_”
+
+# Reference 
+## What documentation did you use as reference? 
+### “_https://www.zaproxy.org/getting-started/_”
+
+# Synopsis
+### _What does the program do_? OWASP ZAP is ultimately a proxy server that checks all the traffic that runs through it. This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. Here is a quick diagram of how ZAP works.
+
+### _What problem does the application solve_? This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. SQL injection, data exposure, broken authentication, and cross-site scripting.
+
+
 
 #### So, what is “_OWASP ZAP? is an Open-source Web Application Security Project_” along with the ZAP a Zed Attack Proxy is an online group that produces freely accessible editorials, practices, documentation, tools, and bits of knowledge in the field of web appliance security. The Open Web Application Security Project offers free and open resources. It is led by a non-profit called The OWASP Institution. The OWASP ZAP of 2021 is the available result of the latest research centered on a deep examination of data compiled from over forty partner organizations. It is aimed to be used equally to those new to application security as well as professional infiltration testers._
 
