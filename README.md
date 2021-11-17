@@ -164,7 +164,7 @@ This proxy server lies on auto canners that let you intercept vulnerabilities on
 
 ### _Is this software any good?_
 
-OWASP ZAP is a valuable and simple instrument for new learners to understand how to browser across websites. Very simple to set up and incredibly details. There are other answers for more mature, skilled security analysts and testers, who can expand the coverage of a security evaluation.It is most often used to check HTTP techniques, how are they built and if there is delicate information in the traffic, such as how HTTPS certifications work on the website, scanning open ports visible via the web, and trying to adjust HTTP approaches to add or delete requests.
+OWASP ZAP is a valuable and simple instrument for new learners to understand how to browser across websites works. Very simple to set up and incredibly details. There are other answers for more mature, skilled security analysts and testers, who can expand the coverage of a security evaluation. It is most often used to check HTTP techniques, how are they built and if there is delicate information in the traffic, such as how HTTPS certifications work on the website, scanning open ports visible via the web, and trying to adjust HTTP approaches to add or delete requests.
 
 ### _What are its pros and cons?_   
 
