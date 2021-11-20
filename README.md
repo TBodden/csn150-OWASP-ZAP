@@ -170,7 +170,7 @@ OWASP ZAP is a valuable and simple instrument for new learners to understand how
 
 ***_Pro_-*** it is free, its open source, is actively supported by a very hard-working community, and even us a user’s can get engaged and help the community. 
 
-***_Cons_-*** I just wish the way they handle the file information online would be a little easier to follow Can you see yourself using this tool in the future? 
+***_Cons_-*** I just wish the way they handle the file information online would be a much easier to follow.  
 
 #### _Can you see yourself using this tool in the future?_
 
