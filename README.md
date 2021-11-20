@@ -103,7 +103,7 @@ This proxy server lies on auto canners that let you intercept vulnerabilities on
 
 #### Now, we are done running the program. To run the proxy, we need to run it from the installation directory. So please open your ubuntu to locate the installation directory, and type “_sudo updated_” and type in your “_password_”.
 
-``` $ sudo updated```
+``` $ sudo updatedb```
 
 ```password```
 
