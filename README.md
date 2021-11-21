@@ -24,6 +24,8 @@ This proxy server lies on auto canners that let you intercept vulnerabilities on
 
 ## Use Cases
 
+### _Here are three case that can be used with the software_
+
 ![](https://user-images.githubusercontent.com/90642764/142751298-09918782-29cd-4803-bb59-6f68495513cd.png)
 
 
