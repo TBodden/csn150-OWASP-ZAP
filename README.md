@@ -24,6 +24,14 @@ This proxy server lies on auto canners that let you intercept vulnerabilities on
 
 ## Use Cases
 
+![](https://user-images.githubusercontent.com/90642764/142751298-09918782-29cd-4803-bb59-6f68495513cd.png)
+
+
+![](https://user-images.githubusercontent.com/90642764/142751302-a5288cfc-7d45-45b4-aabb-39a01fa65e31.png)
+
+
+![](https://user-images.githubusercontent.com/90642764/142751304-6483fb1b-6502-4a56-84ea-b814b85c4edd.png)
+
 # ***Installation***
 
 #### We’ll start the installation of **_“OWASP Zed Attack Proxy”_**, but first start your virtual machine and click your **_“Firefox search engine”_**. 
