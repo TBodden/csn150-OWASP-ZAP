@@ -40,7 +40,7 @@ This proxy server lies on auto canners that let you intercept vulnerabilities on
 
 ![DVWA](https://user-images.githubusercontent.com/90642764/142928166-d7ff9784-49c6-45f6-a422-b4e7296044d7.png)
 
-### _http://www.itsecgames.com/-
+### _http://www.itsecgames.com/_
 
 ![BWAPP](https://user-images.githubusercontent.com/90642764/142928180-26841338-3974-4d79-b899-88c1c62491f7.png)
 
