@@ -34,6 +34,9 @@ This proxy server lies on auto canners that let you intercept vulnerabilities on
 
 ![](https://user-images.githubusercontent.com/90642764/142751304-6483fb1b-6502-4a56-84ea-b814b85c4edd.png)
 
+## Web page that can be used with _"OWASP ZAP"_
+
+![mascot](http://dvwa.co.uk) 
 
 ## Video Demo
 
