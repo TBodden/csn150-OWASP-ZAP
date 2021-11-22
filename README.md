@@ -36,13 +36,15 @@ This proxy server lies on auto canners that let you intercept vulnerabilities on
 
 ## Web page that can be used with _"OWASP ZAP"_
 
-### http://dvwa.co.uk
+### _http://dvwa.co.uk_
 
 ![DVWA](https://user-images.githubusercontent.com/90642764/142928166-d7ff9784-49c6-45f6-a422-b4e7296044d7.png)
 
+### _http://www.itsecgames.com/-
 
 ![BWAPP](https://user-images.githubusercontent.com/90642764/142928180-26841338-3974-4d79-b899-88c1c62491f7.png)
 
+### _https://defendtheweb.net/_
 
 ![DEFEND THE WEB](https://user-images.githubusercontent.com/90642764/142928196-74a63481-2746-430c-9378-b6e0b75c0347.png)
 
