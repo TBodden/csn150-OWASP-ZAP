@@ -1,6 +1,6 @@
 # CNS150
 
-# Educational By _"A.Ramirez   &   T.Bodden"_
+# Educational       By     _"A.Ramirez   &   T.Bodden"_
 
 ### _Name of Program / Application_
 
