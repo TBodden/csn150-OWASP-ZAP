@@ -17,7 +17,7 @@
 
 OWASP ZAP is ultimately a proxy server that checks all the traffic that runs through it. This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. Here is a quick diagram of how ZAP works.
 
-#### _What problem does the application solve_?
+### _What problem does the application solve_?
 
 This proxy server lies on auto canners that let you intercept vulnerabilities on your website and produce reports from its findings. SQL injection, data exposure, broken authentication, and cross-site scripting.
 
